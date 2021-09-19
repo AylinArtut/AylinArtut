@@ -1,8 +1,16 @@
+**Current Status**
+
+Zurück vom Urlaub & neuer Job als studentische Hilfskraft in der Hochschule. :upside_down_face:
+
+P.S.: Die verschollenen Screenshots in den Projekten werden bald wieder eingefügt.
+
+--------------------------------------------------------------------------------------------
+
 **Programming**
 
 Mein erstes Projekt, mit dem ich in SS 2020 programmieren lernte: https://github.com/AylinArtut/NonsenseWorld :hearts: <br/>
 
-• Currently working on (during vacation): https://github.com/AylinArtut/Textbased-RPG-Website <br/>
+• Currently working on: https://github.com/AylinArtut/Textbased-RPG-Website <br/>
 • Last finished project: https://github.com/AylinArtut/ParkhausSimulation
 
 --------------------------------------------------------------------------------------------
