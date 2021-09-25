@@ -2,8 +2,6 @@
 
 Zurück vom Urlaub & neuer Job als studentische Hilfskraft in der Hochschule. :upside_down_face:
 
-P.S.: Die verschollenen Screenshots in den Projekten werden bald wieder eingefügt.
-
 --------------------------------------------------------------------------------------------
 
 **Programming**
