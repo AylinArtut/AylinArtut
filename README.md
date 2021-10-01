@@ -1,6 +1,8 @@
 **Current Status**
 
-Zurück vom Urlaub & neuer Job als studentische Hilfskraft in der Hochschule. :upside_down_face:
+• Neuer Job als studentische Hilfskraft in der Hochschule. <br/>
+• Wechsel des Studienganges zu Wirtschaftsinformatik. <br/>
+• & 10kg abgenommen. :v:
 
 --------------------------------------------------------------------------------------------
 
