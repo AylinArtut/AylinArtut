@@ -2,7 +2,6 @@
 
 • Neuer Job als studentische Hilfskraft in der Hochschule. <br/>
 • Wechsel des Studienganges zu Wirtschaftsinformatik. <br/>
-• & 10kg abgenommen. :v:
 
 --------------------------------------------------------------------------------------------
 
