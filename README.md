@@ -1,15 +1,17 @@
 **Current Status**
 
-• Neuer Job als studentische Hilfskraft in der Hochschule. <br/>
-• Wechsel des Studienganges zu Wirtschaftsinformatik. <br/>
+• Sehr glücklich mit Job als studentische Hilfskraft in der Hochschule! <br/>
 
+![alt text](https://i.ibb.co/G2DnBt2/images.jpg)
 --------------------------------------------------------------------------------------------
 
 **Programming**
 
 Mein erstes Projekt, mit dem ich in SS 2020 programmieren lernte: https://github.com/AylinArtut/NonsenseWorld :hearts: <br/>
 
-• Currently working on: https://github.com/AylinArtut/Textbased-RPG-Website <br/>
+![alt text](https://i.ibb.co/RcHkXBq/Unbenannt.png)
+
+• Another project: https://github.com/AylinArtut/Textbased-RPG-Website <br/>
 • Last finished project: https://github.com/AylinArtut/ParkhausSimulation
 
 --------------------------------------------------------------------------------------------
