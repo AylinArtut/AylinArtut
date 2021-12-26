@@ -1,17 +1,14 @@
 **Current Status**
 
-• Sehr glücklich mit Job als studentische Hilfskraft in der Hochschule! <br/>
+• Sehr glücklich mit Job als studentische Hilfskraft in der Hochschule! :heartpulse: <br/>
+• & Februar arbeite ich in meiner Freizeit an meinem [Videospielprojekt](https://github.com/AylinArtut/NonsenseWorld) weiter. <br/>
 
-![alt text](https://i.ibb.co/G2DnBt2/images.jpg)
 --------------------------------------------------------------------------------------------
 
 **Programming**
 
-Mein erstes Projekt, mit dem ich in SS 2020 programmieren lernte: https://github.com/AylinArtut/NonsenseWorld :hearts: <br/>
-
-![alt text](https://i.ibb.co/RcHkXBq/Unbenannt.png)
-
-• Another project: https://github.com/AylinArtut/Textbased-RPG-Website <br/>
+• Mein erstes Projekt, mit dem ich in SS 2020 programmieren lernte: https://github.com/AylinArtut/NonsenseWorld <br/>
+• Weiteres Projekt: https://github.com/AylinArtut/Textbased-RPG-Website <br/>
 • Last finished project: https://github.com/AylinArtut/ParkhausSimulation
 
 --------------------------------------------------------------------------------------------
