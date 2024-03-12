@@ -2,19 +2,11 @@
 
 $${\color{pink} Since \space all \space repositories \space are \space currently \space outdated, \space I've \space set \space them \space to \space private. \space I'll \space set \space them \space back \space to \space public \space after \space refactoring.📝📊}$$
 
-<b>About me:</b> </br>
-🧸 Hard working girly </br>
-🌷 Eccentric, naive & honest personality
-
 <b>Interests:</b> </br>
 💗 I've a passion for automating processes (currently in database modeling) </br>
 ☕ I love attending developer fairs & conferences </br>
 🎲 I like coding & pixeling games </br>
 📚 & I enjoy teaching students
-
-<b>Fun facts:</b> </br>
-💌 I rarely fall in love, only every few (2-3) years (kinda proud virgin girly) </br>
-✨ But almost every few days I find myself fascinated by random projects
 
 ![alt text](https://i.ibb.co/X5M3X50/8598515601c82047e801a69c186ffdc4.jpg)
   
