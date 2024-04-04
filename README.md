@@ -8,6 +8,10 @@ $${\color{pink} Since \space all \space repositories \space are \space currently
 🎲 I like coding & pixeling games </br>
 📚 & I enjoy teaching students
 
+<b>Started to code again. Finished, public projects:</b> </br>
+✔️ https://github.com/AylinArtut/WebScraper </br>
+⚠️ \*Worksch hard on next project\*
+
 ![alt text](https://i.ibb.co/X5M3X50/8598515601c82047e801a69c186ffdc4.jpg)
   
 ###
