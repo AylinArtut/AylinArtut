@@ -1,6 +1,4 @@
-![alt text](https://i.ibb.co/5GsCTw8/c15c7269e76d2f41bd3e2762767b5194-horz.jpg)
-
-$${\color{pink} Since \space all \space repositories \space are \space currently \space outdated, \space I've \space set \space them \space to \space private. \space I'll \space set \space them \space back \space to \space public \space after \space refactoring.📝📊}$$
+$${\color{lightblue} Since \space all \space repositories \space are \space currently \space outdated, \space I've \space set \space them \space to \space private. \space I'll \space set \space them \space back \space to \space public \space after \space refactoring.📝📊}$$
 
 <b>Interests:</b> </br>
 💗 I've a passion for automating processes (currently in database modeling) </br>
@@ -10,10 +8,7 @@ $${\color{pink} Since \space all \space repositories \space are \space currently
 
 <b>Started to code again. Finished, public projects:</b> </br>
 ✔️ https://github.com/AylinArtut/WebScraper </br>
-⚠️ \*Worksch hard on next project\*
 
-![alt text](https://i.ibb.co/X5M3X50/8598515601c82047e801a69c186ffdc4.jpg)
-  
 ###
 
 <h2 align="left">Favorites</h2>
@@ -85,6 +80,3 @@ $${\color{pink} Since \space all \space repositories \space are \space currently
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
 </div>
-
-###
-![alt text](https://i.ibb.co/tZ215sL/d8cb4492f54153374a3139ac99c54ad9-horz.jpg)
