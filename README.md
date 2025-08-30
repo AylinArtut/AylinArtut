@@ -6,3 +6,5 @@ Interests 📚💻:
 
 Exploring when there's time 🎮:
 * Game dev experiments, e.g. gamification-related tools
+
+https://myanimelist.net/profile/HardWorkingGirly
