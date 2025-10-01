@@ -2,9 +2,11 @@
 
 Interests 📚💻:
 * Automating processes, e.g. semantic validations
-* Modeling, e.g. database modeling (which randomly fits well with business informatics)
+* Modeling, e.g. database modeling (which randomly fits well with business informatics) <br><br>
+* [Animes](https://myanimelist.net/profile/HardWorkingGirly)
+* Video Games
 
 Exploring when there's time 🎮:
 * Game dev experiments, e.g. gamification-related tools
 
-https://myanimelist.net/profile/HardWorkingGirly
+![Alt-Text](https://s1.directupload.eu/images/251001/vvbkhc8z.png)
