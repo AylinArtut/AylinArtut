@@ -11,4 +11,4 @@ Exploring when there's time 🎮:
 
 Current status:
 * Happiest trainee on earth in internship
-* Little turtle with a big fighter’s soul is about to reach her goal, yayy 🏁 ... 🐢💗
+* Little turtle with a big fighter's soul is about to reach her goal, yayy 🏁 ... 🐢💗
