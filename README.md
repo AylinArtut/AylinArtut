@@ -9,10 +9,6 @@ Interests 📚💻:
 Exploring when there's time 🎮:
 * Game dev experiments, e.g. gamification-related tools
 
-![Alt-Text](https://s1.directupload.eu/images/251001/vvbkhc8z.png) <br>
-~~But still waiting for paper-stuff to start ... 😪~~ <br>
-Just one signature left!
-
-Only one week left! ⏳✨ I wanted to start at the beginning of this month, but now it’s the end of the month — still, it’s okay, yay! 😅🎉
-
-Then 8 hours a day in the lab for 10 weeks — wheyy! ☕😊
+Current status:
+* Happiest trainee on earth in internship
+* Little turtle with a big fighter’s soul is about to reach her goal, yayy 🏁 ... 🐢💗
