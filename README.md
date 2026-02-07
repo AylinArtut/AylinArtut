@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 07.02.26, ca. 17:00]
+[Last change: 07.02.26, ~17:00]
 
 - [ ] Ableitungen
   - [ ] Kettenregel, Quotientenregel, Produktregel, L'Hospital
