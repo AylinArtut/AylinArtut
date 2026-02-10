@@ -15,8 +15,8 @@ Public ToDo-list to push myself to work harder for my final exam:
 [Last change: 10.02.26, ~03:35]
 
 - [ ] Ableitungen
-  - [ ] Becoming faster in solving
-  - [ ] Becoming faster in solving (with no fails)
+  - [ ] Becoming faster at solving
+  - [ ] Becoming faster at solving (with no fails)
   - [ ] Kettenregel, Quotientenregel, Produktregel, L'Hospital
     - [ ] Exponentialfunktionen (inkl. e-Funktion)
     - [ ] Logarithmusfunktionen
