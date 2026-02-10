@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 07.02.26, ~17:00]
+[Last change: 10.02.26, ~03:25]
 
 - [ ] Ableitungen
   - [ ] Kettenregel, Quotientenregel, Produktregel, L'Hospital
@@ -23,9 +23,9 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [ ] 2. Ableitung, 3. Ableitung (wann?)
 
 - [ ] 100 KI generierte Aufgaben zu Ableitungen lösen
-  - [ ] 10 KI generierte Aufgaben zu Ableitungen lösen
-  - [ ] 20 KI generierte Aufgaben zu Ableitungen lösen
-  - [ ] 30 KI generierte Aufgaben zu Ableitungen lösen
+  - [x] 10 KI generierte Aufgaben zu Ableitungen lösen
+  - [x] 20 KI generierte Aufgaben zu Ableitungen lösen
+  - [x] 30 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 40 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 50 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 60 KI generierte Aufgaben zu Ableitungen lösen
