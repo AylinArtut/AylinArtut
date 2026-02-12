@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 12.02.26, ~22:35]
+[Last change: 12.02.26, ~22:56]
 
 **AI impresses me with personalized, challenging tasks. It identifies exact the areas where I still struggle, LOVE IT!** 😍❤️
 
@@ -35,7 +35,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 60 KI generierte Aufgaben zu Ableitungen lösen [4 Fails]
   - [x] 70 KI generierte Aufgaben zu Ableitungen lösen [0 Fails]
   - [x] 80 KI generierte Aufgaben zu Ableitungen lösen [1 Fails]
-  - [ ] 90 KI generierte Aufgaben zu Ableitungen lösen
+  - [x] 90 KI generierte Aufgaben zu Ableitungen lösen [0 Fails]
      
 - [ ] 200 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 110 KI generierte Aufgaben zu Ableitungen lösen
