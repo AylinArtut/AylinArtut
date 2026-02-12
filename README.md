@@ -17,7 +17,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 **AI impresses me with personalized, challenging tasks. It identifies exact the areas where I still struggle, LOVE IT!** 😍❤️
 
 - [ ] Ableitungen
-  - [ ] Becoming faster at solving
+  - [x] Becoming faster at solving
   - [ ] Becoming faster at solving (with no fails)
   - [ ] Kettenregel, Quotientenregel, Produktregel, L'Hospital
     - [ ] Exponentialfunktionen (inkl. e-Funktion)
