@@ -30,7 +30,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 30 KI generierte Aufgaben zu Ableitungen lösen [3 Fails]
   - [x] 40 KI generierte Aufgaben zu Ableitungen lösen [2 Fails]
   - [x] 50 KI generierte Aufgaben zu Ableitungen lösen [3 Fails]
-  - [ ] 60 KI generierte Aufgaben zu Ableitungen lösen
+  - [x] 60 KI generierte Aufgaben zu Ableitungen lösen [4 Fails]
   - [ ] 70 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 80 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 90 KI generierte Aufgaben zu Ableitungen lösen
