@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 12.02.26, ~22:56]
+[Last change: 12.02.26, ~23:17]
 
 **AI impresses me with personalized, challenging tasks. It identifies exact the areas where I still struggle, LOVE IT!** 😍❤️
 
@@ -26,16 +26,7 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [ ] Hyperbolische Funktionen (SinusH, CosinusH, TangensH)
     - [ ] 2. Ableitung, 3. Ableitung (wann?)
 
-- [ ] 100 KI generierte Aufgaben zu Ableitungen lösen
-  - [x] 10 KI generierte Aufgaben zu Ableitungen lösen [5 Fails]
-  - [x] 20 KI generierte Aufgaben zu Ableitungen lösen [2 Fails]
-  - [x] 30 KI generierte Aufgaben zu Ableitungen lösen [3 Fails]
-  - [x] 40 KI generierte Aufgaben zu Ableitungen lösen [2 Fails]
-  - [x] 50 KI generierte Aufgaben zu Ableitungen lösen [3 Fails]
-  - [x] 60 KI generierte Aufgaben zu Ableitungen lösen [4 Fails]
-  - [x] 70 KI generierte Aufgaben zu Ableitungen lösen [0 Fails]
-  - [x] 80 KI generierte Aufgaben zu Ableitungen lösen [1 Fails]
-  - [x] 90 KI generierte Aufgaben zu Ableitungen lösen [0 Fails]
+- [x] 100 KI generierte Aufgaben zu Ableitungen lösen [21 Fails]
      
 - [ ] 200 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 110 KI generierte Aufgaben zu Ableitungen lösen
