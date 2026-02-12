@@ -14,6 +14,8 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 [Last change: 12.02.26, ~21:25]
 
+**AI impresses me with personalized, challenging tasks. It identifies exact the areas where I still struggle, LOVE IT!** 😍❤️
+
 - [ ] Ableitungen
   - [ ] Becoming faster at solving
   - [ ] Becoming faster at solving (with no fails)
