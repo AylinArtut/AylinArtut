@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 13.02.26, ~21:54]
+[Last change: 14.02.26, ~20:22]
 
 **AI impresses me with personalized, challenging tasks. It identifies exact the areas where I still struggle, LOVE IT!** 😍❤️
 
@@ -52,7 +52,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 - [ ] Alle Altklausuraufgaben zu Integralrechnung (Aufgabentyp 5) lösen
       
 - [ ] 100 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
-  - [ ] 10 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
+  - [x] 10 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [8 Fails]
   - [ ] 20 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
   - [ ] 30 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
   - [ ] 40 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
