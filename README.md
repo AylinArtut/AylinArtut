@@ -12,9 +12,9 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 14.02.26, ~20:22]
+[Last change: 14.02.26, ~22:56]
 
-**AI impresses me with personalized, challenging tasks. It identifies exact the areas where I still struggle, LOVE IT!** 😍❤️
+**Today I strengthened my understanding of the differences between "Ableitungen" and "Stammfunktionen" so that, despite their similarity, the risk of confusing them in the exam won’t cost me any points. Tomorrow, I will do interleaved practice by mixing "Ableitungen" and "Stammfunktionen" tasks.** 🏃
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
