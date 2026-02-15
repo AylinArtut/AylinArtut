@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 15.02.26, ~19:12]
+[Last change: 15.02.26, ~19:36]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -74,6 +74,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 ─────────────────────────────────────────────
      
 - [ ] Konvergenzkriterien
+  - [x] An Aufgabe das passende Kriterium direkt erkennen
   - [ ] Konvergenz vs. Divergenz
   - [ ] Punktweise Konvergenz
   - [ ] Gleichmäßige Konvergenz
@@ -86,17 +87,49 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Zeigen, dass eine Folge konvergiert
      
 - [ ] Alle Altklausuraufgaben zu Konvergenzkriterien (Aufgabentyp 2) lösen
-- [ ] 100 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 10 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 20 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 30 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 40 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 50 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 60 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 70 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 80 KI generierte Aufgaben zu Konvergenzkriterien lösen
-  - [ ] 90 KI generierte Aufgaben zu Konvergenzkriterien lösen
+      
+- [ ] 50 KI generierte Aufgaben zu Wurzelkriterium lösen
+  - [ ] 10 KI generierte Aufgaben zu Wurzelkriterium lösen
+  - [ ] 20 KI generierte Aufgaben zu Wurzelkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Wurzelkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Wurzelkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Wurzelkriterium lösen
+
+- [ ] 50 KI generierte Aufgaben zu Quotientenkriterium lösen
+  - [ ] 10 KI generierte Aufgaben zu Quotientenkriterium lösen
+  - [ ] 20 KI generierte Aufgaben zu Quotientenkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Quotientenkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Quotientenkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Quotientenkriterium lösen
+
+- [ ] 50 KI generierte Aufgaben zu Leibnitzkriterium lösen
+  - [ ] 10 KI generierte Aufgaben zu Leibnitzkriterium lösen
+  - [ ] 20 KI generierte Aufgaben zu Leibnitzkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Leibnitzkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Leibnitzkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Leibnitzkriterium lösen
+
+- [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 10 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 20 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
      
+- [ ] 50 KI generierte Aufgaben zu Minorantenkriterium lösen
+  - [ ] 10 KI generierte Aufgaben zu Minorantenkriterium lösen
+  - [ ] 20 KI generierte Aufgaben zu Minorantenkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Minorantenkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Minorantenkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Minorantenkriterium lösen
+     
+- [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 10 KI generierte Aufgaben zu Majorantenkriterium lösen
+  - [ ] 20 KI generierte Aufgaben zu Majorantenkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Majorantenkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Majorantenkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Majorantenkriterium lösen
+        
 ─────────────────────────────────────────────
 
 - [ ] Rekursiv definierte Folgen     
