@@ -14,6 +14,8 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 [Last change: 15.02.26, ~19:36]
 
+**Current focus: Reviewing "Konvergenzkriterien".** 🌞📖
+
 - [ ] Ableitungen
   - [x] Becoming faster at solving
   - [ ] Becoming faster at solving (with no fails)
