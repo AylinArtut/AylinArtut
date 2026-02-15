@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 15.02.26, ~16:52]
+[Last change: 15.02.26, ~18:15]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -30,7 +30,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 110 KI generierte Aufgaben zu Ableitungen lösen [0 Fails]
   - [x] 120 KI generierte Aufgaben zu Ableitungen lösen [2 Fails]
   - [x] 130 KI generierte Aufgaben zu Ableitungen lösen [4 Fails]
-  - [ ] 140 KI generierte Aufgaben zu Ableitungen lösen
+  - [x] 140 KI generierte Aufgaben zu Ableitungen lösen [2 Fails]
   - [ ] 150 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 160 KI generierte Aufgaben zu Ableitungen lösen
   - [ ] 170 KI generierte Aufgaben zu Ableitungen lösen
@@ -53,7 +53,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 10 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [8 Fails]
   - [x] 20 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [4 Fails]
   - [x] 30 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [4 Fails]
-  - [ ] 40 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
+  - [x] 40 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [2 Fails]
   - [ ] 50 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
   - [ ] 60 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
   - [ ] 70 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
