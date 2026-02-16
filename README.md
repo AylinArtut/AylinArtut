@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 15.02.26, ~19:36]
+[Last change: 16.02.26, ~15:12]
 
 **Current focus: Reviewing "Konvergenzkriterien".** 🌞📖
 
@@ -77,6 +77,7 @@ Public ToDo-list to push myself to work harder for my final exam:
      
 - [ ] Konvergenzkriterien
   - [x] An Aufgabe das passende Kriterium direkt erkennen
+  - [x] Terme erkennen die eine Nullfolge sind
   - [ ] Konvergenz vs. Divergenz
   - [ ] Punktweise Konvergenz
   - [ ] Gleichmäßige Konvergenz
