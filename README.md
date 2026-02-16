@@ -83,7 +83,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Gleichmäßige Konvergenz
   - [ ] Wurzelkriterium
   - [ ] Quotientenkriterium
-  - [ ] Leibnitzkriterium
+  - [x] Leibnizkriterium
   - [ ] Nullfolgenkriterium
   - [ ] Minorantenkriterium
   - [ ] Majorantenkriterium
