@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 16.02.26, ~15:12]
+[Last change: 16.02.26, ~15:40]
 
 **Current focus: Reviewing "Konvergenzkriterien".** 🌞📖
 
@@ -106,7 +106,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] 50 KI generierte Aufgaben zu Quotientenkriterium lösen
 
 - [ ] 50 KI generierte Aufgaben zu Leibnitzkriterium lösen
-  - [ ] 10 KI generierte Aufgaben zu Leibnitzkriterium lösen
+  - [x] 10 KI generierte Aufgaben zu Leibnitzkriterium lösen [0 Fails]
   - [ ] 20 KI generierte Aufgaben zu Leibnitzkriterium lösen
   - [ ] 30 KI generierte Aufgaben zu Leibnitzkriterium lösen
   - [ ] 40 KI generierte Aufgaben zu Leibnitzkriterium lösen
