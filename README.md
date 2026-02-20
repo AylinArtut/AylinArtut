@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 20.02.26, ~22:34]
+[Last change: 20.02.26, ~22:37]
 
 **Current focus: Reviewing "Konvergenzkriterien".** 🌞📖
 
@@ -81,7 +81,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Konvergenz vs. Divergenz
   - [ ] Punktweise Konvergenz
   - [ ] Gleichmäßige Konvergenz
-  - [ ] Wurzelkriterium
+  - [x] Wurzelkriterium
   - [ ] Quotientenkriterium
   - [x] Leibnizkriterium
   - [ ] Nullfolgenkriterium
@@ -90,7 +90,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Zeigen, dass eine Folge konvergiert
      
 - [ ] Alle Altklausuraufgaben zu Konvergenzkriterien (Aufgabentyp 2) lösen
-
+      
 - [x] 50 KI generierte Aufgaben zu Leibnizkriterium lösen [0 Fails]  
 - [x] 50 KI generierte Aufgaben zu Wurzelkriterium lösen [5 Fails]
 
