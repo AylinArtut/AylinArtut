@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 16.02.26, ~17:42]
+[Last change: 20.02.26, ~22:34]
 
 **Current focus: Reviewing "Konvergenzkriterien".** 🌞📖
 
@@ -91,14 +91,8 @@ Public ToDo-list to push myself to work harder for my final exam:
      
 - [ ] Alle Altklausuraufgaben zu Konvergenzkriterien (Aufgabentyp 2) lösen
 
-- [x] 50 KI generierte Aufgaben zu Leibnizkriterium lösen [0 Fails]
-      
-- [ ] 50 KI generierte Aufgaben zu Wurzelkriterium lösen
-  - [x] 10 KI generierte Aufgaben zu Wurzelkriterium lösen [2 Fails]
-  - [ ] 20 KI generierte Aufgaben zu Wurzelkriterium lösen
-  - [ ] 30 KI generierte Aufgaben zu Wurzelkriterium lösen
-  - [ ] 40 KI generierte Aufgaben zu Wurzelkriterium lösen
-  - [ ] 50 KI generierte Aufgaben zu Wurzelkriterium lösen
+- [x] 50 KI generierte Aufgaben zu Leibnizkriterium lösen [0 Fails]  
+- [x] 50 KI generierte Aufgaben zu Wurzelkriterium lösen [5 Fails]
 
 - [ ] 50 KI generierte Aufgaben zu Quotientenkriterium lösen
   - [ ] 10 KI generierte Aufgaben zu Quotientenkriterium lösen
