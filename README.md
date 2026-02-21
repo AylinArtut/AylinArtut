@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~18:17]
+[Last change: 21.02.26, ~18:35]
 
 **Current focus: "ε-δ-Kriterium" & after that "Konvergenzkriterien" again.** 🌞📖
 
@@ -192,7 +192,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 ─────────────────────────────────────────────
      
 - [ ] ε-δ-Kriterium
-  - [ ] Zwischenwertsatz
+  - [x] Formaler Beweis der Stetigkeit (beidseitig, rechtsseitig, linksseitig)
   - [ ] Dreicksungleichung (untere, obere)
 
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 3 lösen
@@ -252,6 +252,8 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Konkav, konvex (wann?)
   - [ ] Asymptotisches Verhalten (wann?)
   - [ ] Singularität
+     
+  - [ ] Zwischenwertsatz
   
 ─────────────────────────────────────────────
 
