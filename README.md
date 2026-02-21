@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~13:03]
+[Last change: 21.02.26, ~13:17]
 
 **Current focus: "ε-δ-Kriterium" & after that "Konvergenzkriterien" again.** 🌞📖
 
