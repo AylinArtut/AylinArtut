@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~13:17]
+[Last change: 21.02.26, ~18:17]
 
 **Current focus: "ε-δ-Kriterium" & after that "Konvergenzkriterien" again.** 🌞📖
 
@@ -205,7 +205,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur SS 18
   - [ ] Klausur WS 18/19
   - [ ] Klausur SS 19
-  - [ ] Klausur WS 19/20
+  - [x] Klausur WS 19/20
   - [ ] Klausur SS 20
   - [ ] Klausur WS 20/21
   - [ ] Klausur SS 21
@@ -213,7 +213,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur SS 22
   - [ ] Klausur WS 22/23
   - [ ] Klausur SS 23
-  - [ ] Klausur SS 24
+  - [x] Klausur SS 24
   - [ ] Klausur WS 24/25
   - [ ] Klausur SS 25
      
