@@ -12,9 +12,9 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 20.02.26, ~22:37]
+[Last change: 21.02.26, ~13:03]
 
-**Current focus: Reviewing "Konvergenzkriterien".** 🌞📖
+**Current focus: "ε-δ-Kriterium" & after that "Konvergenzkriterien" again.** 🌞📖
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -50,6 +50,26 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Partialbruchzerlegung
 
 - [ ] Alle Altklausuraufgaben zu Integralrechnung (Aufgabentyp 5) lösen
+  - [ ] Klausur SS 15
+  - [ ] Klausur WS 15/16
+  - [ ] Klausur SS 16
+  - [ ] Klausur WS 16/17
+  - [ ] Klausur SS 17
+  - [ ] Klausur WS 17/18
+  - [ ] Klausur SS 18
+  - [ ] Klausur WS 18/19
+  - [ ] Klausur SS 19
+  - [ ] Klausur WS 19/20
+  - [ ] Klausur SS 20
+  - [ ] Klausur WS 20/21
+  - [ ] Klausur SS 21
+  - [ ] Klausur WS 21/22
+  - [ ] Klausur SS 22
+  - [ ] Klausur WS 22/23
+  - [ ] Klausur SS 23
+  - [ ] Klausur SS 24
+  - [ ] Klausur WS 24/25
+  - [ ] Klausur SS 25
       
 - [ ] 100 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen
   - [x] 10 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [8 Fails]
@@ -90,6 +110,26 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Zeigen, dass eine Folge konvergiert
      
 - [ ] Alle Altklausuraufgaben zu Konvergenzkriterien (Aufgabentyp 2) lösen
+  - [ ] Klausur SS 15
+  - [ ] Klausur WS 15/16
+  - [ ] Klausur SS 16
+  - [ ] Klausur WS 16/17
+  - [ ] Klausur SS 17
+  - [ ] Klausur WS 17/18
+  - [ ] Klausur SS 18
+  - [ ] Klausur WS 18/19
+  - [ ] Klausur SS 19
+  - [ ] Klausur WS 19/20
+  - [ ] Klausur SS 20
+  - [ ] Klausur WS 20/21
+  - [ ] Klausur SS 21
+  - [ ] Klausur WS 21/22
+  - [ ] Klausur SS 22
+  - [ ] Klausur WS 22/23
+  - [ ] Klausur SS 23
+  - [ ] Klausur SS 24
+  - [ ] Klausur WS 24/25
+  - [ ] Klausur SS 25
       
 - [x] 50 KI generierte Aufgaben zu Leibnizkriterium lösen [0 Fails]  
 - [x] 50 KI generierte Aufgaben zu Wurzelkriterium lösen [5 Fails]
@@ -128,6 +168,26 @@ Public ToDo-list to push myself to work harder for my final exam:
 - [ ] Grenzwerte (linksseitig, rechtsseitig)
 
 - [ ] Alle Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1) lösen
+  - [ ] Klausur SS 15
+  - [ ] Klausur WS 15/16
+  - [ ] Klausur SS 16
+  - [ ] Klausur WS 16/17
+  - [ ] Klausur SS 17
+  - [ ] Klausur WS 17/18
+  - [ ] Klausur SS 18
+  - [ ] Klausur WS 18/19
+  - [ ] Klausur SS 19
+  - [ ] Klausur WS 19/20
+  - [ ] Klausur SS 20
+  - [ ] Klausur WS 20/21
+  - [ ] Klausur SS 21
+  - [ ] Klausur WS 21/22
+  - [ ] Klausur SS 22
+  - [ ] Klausur WS 22/23
+  - [ ] Klausur SS 23
+  - [ ] Klausur SS 24
+  - [ ] Klausur WS 24/25
+  - [ ] Klausur SS 25
 
 ─────────────────────────────────────────────
      
@@ -136,6 +196,26 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Dreicksungleichung (untere, obere)
 
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 3 lösen
+  - [ ] Klausur SS 15
+  - [ ] Klausur WS 15/16
+  - [ ] Klausur SS 16
+  - [ ] Klausur WS 16/17
+  - [ ] Klausur SS 17
+  - [ ] Klausur WS 17/18
+  - [ ] Klausur SS 18
+  - [ ] Klausur WS 18/19
+  - [ ] Klausur SS 19
+  - [ ] Klausur WS 19/20
+  - [ ] Klausur SS 20
+  - [ ] Klausur WS 20/21
+  - [ ] Klausur SS 21
+  - [ ] Klausur WS 21/22
+  - [ ] Klausur SS 22
+  - [ ] Klausur WS 22/23
+  - [ ] Klausur SS 23
+  - [ ] Klausur SS 24
+  - [ ] Klausur WS 24/25
+  - [ ] Klausur SS 25
      
 ─────────────────────────────────────────────
 
@@ -184,4 +264,45 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Stationäre Punkte
 
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 4 lösen
+  - [ ] Klausur SS 15
+  - [ ] Klausur WS 15/16
+  - [ ] Klausur SS 16
+  - [ ] Klausur WS 16/17
+  - [ ] Klausur SS 17
+  - [ ] Klausur WS 17/18
+  - [ ] Klausur SS 18
+  - [ ] Klausur WS 18/19
+  - [ ] Klausur SS 19
+  - [ ] Klausur WS 19/20
+  - [ ] Klausur SS 20
+  - [ ] Klausur WS 20/21
+  - [ ] Klausur SS 21
+  - [ ] Klausur WS 21/22
+  - [ ] Klausur SS 22
+  - [ ] Klausur WS 22/23
+  - [ ] Klausur SS 23
+  - [ ] Klausur SS 24
+  - [ ] Klausur WS 24/25
+  - [ ] Klausur SS 25
+      
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 6 lösen
+  - [ ] Klausur SS 15
+  - [ ] Klausur WS 15/16
+  - [ ] Klausur SS 16
+  - [ ] Klausur WS 16/17
+  - [ ] Klausur SS 17
+  - [ ] Klausur WS 17/18
+  - [ ] Klausur SS 18
+  - [ ] Klausur WS 18/19
+  - [ ] Klausur SS 19
+  - [ ] Klausur WS 19/20
+  - [ ] Klausur SS 20
+  - [ ] Klausur WS 20/21
+  - [ ] Klausur SS 21
+  - [ ] Klausur WS 21/22
+  - [ ] Klausur SS 22
+  - [ ] Klausur WS 22/23
+  - [ ] Klausur SS 23
+  - [ ] Klausur SS 24
+  - [ ] Klausur WS 24/25
+  - [ ] Klausur SS 25
