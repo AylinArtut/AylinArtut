@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~22:48]
+[Last change: 21.02.26, ~23:14]
 
 **Current focus: "ε-δ-Kriterium" & after that "Konvergenzkriterien" again.** 🌞📖
 
@@ -134,6 +134,13 @@ Public ToDo-list to push myself to work harder for my final exam:
 - [x] 50 KI generierte Aufgaben zu Leibnizkriterium lösen [0 Fails]  
 - [x] 50 KI generierte Aufgaben zu Wurzelkriterium lösen [5 Fails]
 
+- [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [x] 10 KI generierte Aufgaben zu Nullfolgenkriterium lösen [3 Fails]
+  - [ ] 20 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 30 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 40 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+  - [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
+
 - [ ] 50 KI generierte Aufgaben zu Quotientenkriterium lösen
   - [ ] 10 KI generierte Aufgaben zu Quotientenkriterium lösen
   - [ ] 20 KI generierte Aufgaben zu Quotientenkriterium lösen
@@ -141,13 +148,6 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] 40 KI generierte Aufgaben zu Quotientenkriterium lösen
   - [ ] 50 KI generierte Aufgaben zu Quotientenkriterium lösen
 
-- [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
-  - [ ] 10 KI generierte Aufgaben zu Nullfolgenkriterium lösen
-  - [ ] 20 KI generierte Aufgaben zu Nullfolgenkriterium lösen
-  - [ ] 30 KI generierte Aufgaben zu Nullfolgenkriterium lösen
-  - [ ] 40 KI generierte Aufgaben zu Nullfolgenkriterium lösen
-  - [ ] 50 KI generierte Aufgaben zu Nullfolgenkriterium lösen
-     
 - [ ] 50 KI generierte Aufgaben zu Minorantenkriterium lösen
   - [ ] 10 KI generierte Aufgaben zu Minorantenkriterium lösen
   - [ ] 20 KI generierte Aufgaben zu Minorantenkriterium lösen
