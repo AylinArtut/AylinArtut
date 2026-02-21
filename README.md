@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~18:35]
+[Last change: 21.02.26, ~22:48]
 
 **Current focus: "ε-δ-Kriterium" & after that "Konvergenzkriterien" again.** 🌞📖
 
@@ -196,25 +196,25 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Dreicksungleichung (untere, obere)
 
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 3 lösen
-  - [ ] Klausur SS 15
-  - [ ] Klausur WS 15/16
+  - ~~[ ] Klausur SS 15~~ [kein ε-δ-Kriterium]
+  - ~~[ ] Klausur WS 15/16~~ [kein ε-δ-Kriterium]
   - [ ] Klausur SS 16
-  - [ ] Klausur WS 16/17
+  - ~~[ ] Klausur WS 16/17~~ [kein ε-δ-Kriterium]
   - [ ] Klausur SS 17
-  - [ ] Klausur WS 17/18
-  - [ ] Klausur SS 18
+  - ~~[ ] Klausur WS 17/18~~ [kein ε-δ-Kriterium]
+  - ~~[ ] Klausur SS 18~~ [kein ε-δ-Kriterium]
   - [ ] Klausur WS 18/19
-  - [ ] Klausur SS 19
+  - ~~[ ] Klausur SS 19~~ [kein ε-δ-Kriterium]
   - [x] Klausur WS 19/20
   - [ ] Klausur SS 20
-  - [ ] Klausur WS 20/21
+  - ~~[ ] Klausur WS 20/21~~ [kein ε-δ-Kriterium]
   - [ ] Klausur SS 21
-  - [ ] Klausur WS 21/22
-  - [ ] Klausur SS 22
+  - ~~[ ] Klausur WS 21/22~~ [kein ε-δ-Kriterium]
+  - ~~[ ] Klausur SS 22~~ [kein ε-δ-Kriterium]
   - [ ] Klausur WS 22/23
-  - [ ] Klausur SS 23
+  - ~~[ ] Klausur SS 23~~ [kein ε-δ-Kriterium]
   - [x] Klausur SS 24
-  - [ ] Klausur WS 24/25
+  - ~~[ ] Klausur WS 24/25~~ [kein ε-δ-Kriterium]
   - [ ] Klausur SS 25
      
 ─────────────────────────────────────────────
