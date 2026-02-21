@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~23:46]
+[Last change: 21.02.26, ~23:47]
 
 **Current focus: "Aufgabentyp 6"** 🌞📖
 
@@ -104,7 +104,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] Wurzelkriterium
   - [ ] Quotientenkriterium
   - [x] Leibnizkriterium
-  - [ ] Nullfolgenkriterium
+  - [x] Nullfolgenkriterium
   - [ ] Minorantenkriterium
   - [ ] Majorantenkriterium
   - [ ] Zeigen, dass eine Folge konvergiert
