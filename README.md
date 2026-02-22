@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 21.02.26, ~23:57]
+[Last change: 22.02.26, ~15:22]
 
 **Current focus: "Aufgabentyp 6", Challenge: Finish all 20 tasks for "Aufgabentyp 6" in 1 day.** 🌞📖
 
@@ -282,23 +282,123 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur SS 25
       
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 6 lösen
+      
   - [ ] Klausur SS 15
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 15/16
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 16
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 16/17
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 17
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 17/18
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+
   - [ ] Klausur SS 18
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 18/19
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 19
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 19/20
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 20
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 20/21
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 21
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 21/22
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 22
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur WS 22/23
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 23
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 24
+    - [x] Aufgabe a.)
+    - [x] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+          
   - [ ] Klausur WS 24/25
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+        
   - [ ] Klausur SS 25
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
