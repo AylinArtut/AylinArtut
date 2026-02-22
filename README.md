@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 22.02.26, ~16:37]
+[Last change: 22.02.26, ~17:38]
 
 **Current focus: "Aufgabentyp 6", Challenge: Finish all 20 tasks for "Aufgabentyp 6" in 1 day.** 🌞📖
 
@@ -284,12 +284,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 6 lösen
       
   - ~~[ ] Klausur SS 15~~ [nicht darin vorhanden]
-        
-  - [ ] Klausur WS 15/16
-    - [ ] Aufgabe a.)
-    - [ ] Aufgabe b.)
-    - [ ] Aufgabe c.)
-    - [ ] Aufgabe d.)
+  - ~~[ ] Klausur WS 15/16~~ [nicht darin vorhanden]
         
   - [ ] Klausur SS 16
     - [x] Aufgabe a.)
@@ -298,14 +293,14 @@ Public ToDo-list to push myself to work harder for my final exam:
     - ~~[ ] Aufgabe d.)~~ [nicht darin vorhanden]
         
   - [ ] Klausur WS 16/17
-    - [ ] Aufgabe a.)
+    - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
     - [ ] Aufgabe c.)
-    - [ ] Aufgabe d.)
+    - ~~[ ] Aufgabe d.)~~ [nicht darin vorhanden]
         
   - [ ] Klausur SS 17
-    - [ ] Aufgabe a.)
-    - [ ] Aufgabe b.)
+    - [x] Aufgabe a.)
+    - [x] Aufgabe b.)
     - [ ] Aufgabe c.)
     - [ ] Aufgabe d.)
         
