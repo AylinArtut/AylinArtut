@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 A project I’ve been dreaming about for 3 years is about to become my thesis after this exam. <br>
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 22.02.26, ~20:24]
+[Last change: 22.02.26, ~21:02]
 
 **Current focus: "Aufgabentyp 6", Challenge: Finish all 20 tasks for "Aufgabentyp 6" in 1 day.** 🌞📖
 
@@ -381,7 +381,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur SS 24
     - [x] Aufgabe a.)
     - [x] Aufgabe b.)
-    - [ ] Aufgabe c.)
+    - [x] Aufgabe c.)
     - [ ] Aufgabe d.)
           
   - [ ] Klausur WS 24/25
