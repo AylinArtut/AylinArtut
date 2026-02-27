@@ -13,7 +13,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Finish solving all "Altklausuraufgaben zu Aufgabentyp 6" completely.** ☕📚 🌞
 
-[Last change: 27.02.26, ~23:25]
+[Last change: 27.02.26, ~23:43]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -320,7 +320,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur WS 18/19
     - [x] Aufgabe a.)
     - [x] Aufgabe b.)
-    - [x] Aufgabe c.)
+    - [ ] Aufgabe c.)
     - [ ] Aufgabe d.)
         
   - [ ] Klausur SS 19
