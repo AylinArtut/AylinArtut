@@ -11,7 +11,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-[Last change: 22.02.26, ~21:02]
+**Current focus: Finish solving all "Altklausuraufgaben zu Aufgabentyp 6" completely.** ☕📚 🌞
+
+[Last change: 27.02.26, ~15:37]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
