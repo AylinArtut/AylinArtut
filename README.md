@@ -11,9 +11,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.** 🐢
+**Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 01.03.26, ~17:38]
+[Last change: 01.03.26, ~21:56]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
