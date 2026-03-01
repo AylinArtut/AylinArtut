@@ -227,7 +227,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Polynomdivision
   - [ ] Fakultäten
   - [ ] Basisrechenoperationen
-  - [ ] Bruchrechnung (inkl. kürzen von Brüchen)
+  - [x] Bruchrechnung (inkl. kürzen von Brüchen)
   - [ ] Gleichungen
   - [ ] Quadratische Gleichungen (PQ-Formel)
   - [ ] Koeffizientenvergleich
