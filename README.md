@@ -11,9 +11,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: Finish solving all "Altklausuraufgaben zu Aufgabentyp 6" completely.** ☕📚 🌞
+**Current focus: ...**
 
-[Last change: 01.03.26, ~17:17]
+[Last change: 01.03.26, ~17:22]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -248,18 +248,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Singularität
      
   - [ ] Zwischenwertsatz
-  
-─────────────────────────────────────────────
-
-- [x] Aufgabentyp 6
-  - [x] Gradient, Gradientvektor, Einheitsvektor
-  - [x] Richtungsableitung
-  - [x] Hesse-Matrix
-  - [x] Lokale Minima
-  - [x] Lokale Maxima
-  - [x] Sattelpunkt
-  - [x] Stationäre Punkte
-
+     
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 4 lösen
   - [ ] Klausur SS 15
   - [ ] Klausur WS 15/16
@@ -281,42 +270,16 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur SS 24
   - [ ] Klausur WS 24/25
   - [ ] Klausur SS 25
-      
-- [ ] Alle Altklausuraufgaben zu Aufgabentyp 6 lösen
-      
-  - ~~[ ] Klausur SS 15~~ [nicht darin vorhanden]
-  - ~~[ ] Klausur WS 15/16~~ [nicht darin vorhanden]
-        
-  - [ ] Klausur SS 16
-    - [x] Aufgabe a.)
-    - [x] Aufgabe b.)
-    - [ ] Aufgabe c.)
-    - ~~[ ] Aufgabe d.)~~ [nicht darin vorhanden]
-        
-  - [ ] Klausur WS 16/17
-    - [x] Aufgabe a.)
-    - [x] Aufgabe b.)
-    - [ ] Aufgabe c.)
-    - ~~[ ] Aufgabe d.)~~ [nicht darin vorhanden]
-        
-  - [ ] Klausur SS 17
-    - [x] Aufgabe a.)
-    - [x] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [ ] Aufgabe d.)
-        
-  - [x] Klausur WS 17/18
-  - [x] Klausur SS 18
-  - [x] Klausur WS 18/19   
-  - [x] Klausur SS 19   
-  - [x] Klausur WS 19/20     
-  - [x] Klausur SS 20    
-  - [x] Klausur WS 20/21      
-  - [x] Klausur SS 21
-  - [x] Klausur WS 21/22      
-  - [x] Klausur SS 22
-  - [x] Klausur WS 22/23    
-  - [x] Klausur SS 23
-  - [x] Klausur SS 24    
-  - [x] Klausur WS 24/25  
-  - [x] Klausur SS 25
+  
+─────────────────────────────────────────────
+
+- [x] Aufgabentyp 6
+  - [x] Gradient, Gradientvektor, Einheitsvektor
+  - [x] Richtungsableitung
+  - [x] Hesse-Matrix
+  - [x] Lokale Minima
+  - [x] Lokale Maxima
+  - [x] Sattelpunkt
+  - [x] Stationäre Punkte
+
+- [x] Alle Altklausuraufgaben zu Aufgabentyp 6 lösen
