@@ -11,9 +11,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: ...**
+**Current focus: Working on "Basics" section.**
 
-[Last change: 01.03.26, ~17:22]
+[Last change: 01.03.26, ~17:38]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -248,6 +248,8 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Singularität
      
   - [ ] Zwischenwertsatz
+     
+─────────────────────────────────────────────
      
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 4 lösen
   - [ ] Klausur SS 15
