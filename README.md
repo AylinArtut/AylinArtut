@@ -11,7 +11,7 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: Working on "Basics" section.**
+**Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.** 🐢
 
 [Last change: 01.03.26, ~17:38]
 
@@ -213,23 +213,26 @@ Public ToDo-list to push myself to work harder for my final exam:
 ─────────────────────────────────────────────
 
 - [ ] Basics
-  - [ ] Determinante
+  - [x] Determinante
   - [x] Skalarprodukt
   - [x] Vektorlänge
-  - [ ] Intervall (offenes Intervall, abgeschlossenes Intervall)
-  - [ ] Vollständige Induktion
+  - [x] Bruchrechnung (inkl. kürzen von Brüchen)
+  - [x] Basisrechenoperationen
+        
+  - [ ] Gleichungen
+  - [ ] Quadratische Gleichungen (PQ-Formel)
+        
   - [ ] Potenzregel
-  - [ ] Wurzeln
   - [ ] 1. Binomische Formel
   - [ ] 2. Binomische Formel
-  - [ ] 3. Binomische Formel
+  - [ ] 3. Binomische Formel   
+  - [ ] Wurzeln
+        
+  - [ ] Intervall (offenes Intervall, abgeschlossenes Intervall)
+  - [ ] Vollständige Induktion
   - [ ] Polynome
   - [ ] Polynomdivision
   - [ ] Fakultäten
-  - [ ] Basisrechenoperationen
-  - [x] Bruchrechnung (inkl. kürzen von Brüchen)
-  - [ ] Gleichungen
-  - [ ] Quadratische Gleichungen (PQ-Formel)
   - [ ] Koeffizientenvergleich
   - [ ] Nullstellen
   - [ ] Betrag
