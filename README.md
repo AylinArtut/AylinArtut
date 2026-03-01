@@ -371,25 +371,25 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [x] Aufgabe c.)
     - [ ] Aufgabe d.)
         
-  - [ ] Klausur SS 23
+  - [x] Klausur SS 23
     - [x] Aufgabe a.)
     - [x] Aufgabe b.)
     - [x] Aufgabe c.)
     - [x] Aufgabe d.)
         
-  - [ ] Klausur SS 24
+  - [x] Klausur SS 24
     - [x] Aufgabe a.)
     - [x] Aufgabe b.)
     - [x] Aufgabe c.)
     - [x] Aufgabe d.)
           
-  - [ ] Klausur WS 24/25
+  - [x] Klausur WS 24/25
     - [x] Aufgabe a.)
     - [x] Aufgabe b.)
     - [x] Aufgabe c.)
     - [x] Aufgabe d.)
         
-  - [ ] Klausur SS 25
+  - [x] Klausur SS 25
     - [x] Aufgabe a.)
     - [x] Aufgabe b.)
     - [x] Aufgabe c.)
