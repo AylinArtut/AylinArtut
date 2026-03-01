@@ -251,14 +251,14 @@ Public ToDo-list to push myself to work harder for my final exam:
   
 ─────────────────────────────────────────────
 
-- [ ] Aufgabentyp 6
+- [x] Aufgabentyp 6
   - [x] Gradient, Gradientvektor, Einheitsvektor
   - [x] Richtungsableitung
-  - [ ] Hesse-Matrix
-  - [ ] Lokale Minima
-  - [ ] Lokale Maxima
-  - [ ] Sattelpunkt
-  - [ ] Stationäre Punkte
+  - [x] Hesse-Matrix
+  - [x] Lokale Minima
+  - [x] Lokale Maxima
+  - [x] Sattelpunkt
+  - [x] Stationäre Punkte
 
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 4 lösen
   - [ ] Klausur SS 15
