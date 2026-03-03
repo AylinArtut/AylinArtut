@@ -13,7 +13,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 01.03.26, ~21:56]
+[Last change: 03.03.26, ~12:29]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -218,9 +218,29 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] Vektorlänge
   - [x] Bruchrechnung (inkl. kürzen von Brüchen)
   - [x] Basisrechenoperationen
+  - [x] PQ-Formel
         
-  - [ ] Gleichungen
-  - [ ] Quadratische Gleichungen (PQ-Formel)
+  - [ ] 10 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 1 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 2 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 3 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 4 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 5 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 6 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 7 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 8 KI generierte Aufgaben zu Gleichungen lösen
+    - [ ] 9 KI generierte Aufgaben zu Gleichungen lösen
+     
+  - [ ] 10 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 1 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 2 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 3 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 4 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 5 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 6 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 7 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 8 KI generierte Aufgaben zu Quadratische Gleichungen lösen
+    - [ ] 9 KI generierte Aufgaben zu Quadratische Gleichungen lösen
         
   - [ ] Potenzregel
   - [ ] 1. Binomische Formel
