@@ -222,9 +222,9 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 15 KI generierte Aufgaben zu Gleichungen lösen [1 Fails]         
   - [x] 10 KI generierte Aufgaben zu Quadratische Gleichungen lösen [0 Fails] 
 
-  - [ ] 5 Aufgaben zu 1. Binomische Formel
-  - [ ] 5 Aufgaben zu 2. Binomische Formel
-  - [ ] 5 Aufgaben zu 3. Binomische Formel
+  - [ ] 5 KI generierte generAufgaben zu 1. Binomische Formel
+  - [ ] 5 KI generierte Aufgaben zu 2. Binomische Formel
+  - [ ] 5 KI generierte Aufgaben zu 3. Binomische Formel
  
   - [ ] Wurzeln
   - [ ] Potenzregel      
