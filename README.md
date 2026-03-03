@@ -13,7 +13,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 03.03.26, ~14:30]
+[Last change: 03.03.26, ~14:47]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -221,9 +221,9 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] PQ-Formel        
   - [x] 15 KI generierte Aufgaben zu Gleichungen lösen [1 Fails]         
   - [x] 10 KI generierte Aufgaben zu Quadratische Gleichungen lösen [0 Fails] 
-
   - [x] 5 KI generierte Aufgaben zu 1. Binomische Formel [0 Fails]
-  - [ ] 5 KI generierte Aufgaben zu 2. Binomische Formel
+  - [x] 5 KI generierte Aufgaben zu 2. Binomische Formel [1 Fails]
+        
   - [ ] 5 KI generierte Aufgaben zu 3. Binomische Formel
  
   - [ ] Wurzeln
