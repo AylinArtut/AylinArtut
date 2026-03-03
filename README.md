@@ -9,11 +9,15 @@ Exploring when there's time 🎮:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
+**Current situation:** My internship is over. It took a bit longer than expected, now it’s time to pass my last exam, to start the project (my thesis) in April that I’ve been dreaming about for the past 3 years.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 03.03.26, ~20:19]
+[Last change: 03.03.26, ~21:39]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
