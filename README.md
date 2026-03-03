@@ -13,7 +13,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 03.03.26, ~13:17]
+[Last change: 03.03.26, ~13:43]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -218,15 +218,8 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] Vektorlänge
   - [x] Bruchrechnung (inkl. kürzen von Brüchen)
   - [x] Basisrechenoperationen
-  - [x] PQ-Formel
-        
-  - [x] 10 KI generierte Aufgaben zu Gleichungen lösen [1 Fails]
-       
-  - [ ] 15 KI generierte Aufgaben zu Gleichungen lösen
-    - [ ] 11 KI generierte Aufgaben zu Gleichungen lösen
-    - [ ] 12 KI generierte Aufgaben zu Gleichungen lösen
-    - [ ] 13 KI generierte Aufgaben zu Gleichungen lösen
-    - [ ] 14 KI generierte Aufgaben zu Gleichungen lösen
+  - [x] PQ-Formel        
+  - [x] 15 KI generierte Aufgaben zu Gleichungen lösen [1 Fails]      
      
   - [ ] 10 KI generierte Aufgaben zu Quadratische Gleichungen lösen
     - [ ] 1 KI generierte Aufgaben zu Quadratische Gleichungen lösen
