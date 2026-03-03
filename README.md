@@ -13,7 +13,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 03.03.26, ~13:43]
+[Last change: 03.03.26, ~14:17]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -219,25 +219,15 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] Bruchrechnung (inkl. kürzen von Brüchen)
   - [x] Basisrechenoperationen
   - [x] PQ-Formel        
-  - [x] 15 KI generierte Aufgaben zu Gleichungen lösen [1 Fails]      
-     
-  - [ ] 10 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 1 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 2 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 3 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 4 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 5 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 6 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 7 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 8 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-    - [ ] 9 KI generierte Aufgaben zu Quadratische Gleichungen lösen
-        
-  - [ ] Potenzregel
-  - [ ] 1. Binomische Formel
-  - [ ] 2. Binomische Formel
-  - [ ] 3. Binomische Formel   
+  - [x] 15 KI generierte Aufgaben zu Gleichungen lösen [1 Fails]         
+  - [x] 10 KI generierte Aufgaben zu Quadratische Gleichungen lösen [0 Fails] 
+
+  - [ ] 5 Aufgaben zu 1. Binomische Formel
+  - [ ] 5 Aufgaben zu 2. Binomische Formel
+  - [ ] 5 Aufgaben zu 3. Binomische Formel
+ 
   - [ ] Wurzeln
-        
+  - [ ] Potenzregel      
   - [ ] Intervall (offenes Intervall, abgeschlossenes Intervall)
   - [ ] Vollständige Induktion
   - [ ] Polynome
