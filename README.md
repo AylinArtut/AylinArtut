@@ -13,7 +13,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 03.03.26, ~19:41]
+[Last change: 03.03.26, ~20:19]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -224,13 +224,19 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 5 KI generierte Aufgaben zu 1. Binomische Formel [0 Fails]
   - [x] 5 KI generierte Aufgaben zu 2. Binomische Formel [1 Fails]
   - [x] 5 KI generierte Aufgaben zu 3. Binomische Formel [0 Fails]
-        
-  - [ ] Betrag 
-  - [ ] Intervall (offenes Intervall, abgeschlossenes Intervall)
-  - [ ] Wurzeln
-  - [ ] Potenzregel      
-  - [ ] Fakultäten
-  - [ ] Fallunterscheidung
+  - [x] Potenzregel
+
+  - [ ] 50 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 5 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 10 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 15 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 20 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 25 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 30 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 35 25 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 40 KI generierte Aufgaben zu Wurzeln lösen
+    - [ ] 45 KI generierte Aufgaben zu Wurzeln lösen
+                 
   - [ ] Koeffizientenvergleich
         
 ─────────────────────────────────────────────
