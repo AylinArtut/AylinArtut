@@ -17,7 +17,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
 
-[Last change: 04.03.26, ~16:09]
+[Last change: 04.03.26, ~17:36]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -232,7 +232,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
   - [ ] 50 KI generierte Aufgaben zu Wurzeln lösen
     - [x] 10 KI generierte Aufgaben zu Wurzeln lösen [4 Fails]
-    - [ ] 20 KI generierte Aufgaben zu Wurzeln lösen
+    - [x] 20 KI generierte Aufgaben zu Wurzeln lösen [1 Fails]
     - [ ] 30 KI generierte Aufgaben zu Wurzeln lösen
     - [ ] 40 KI generierte Aufgaben zu Wurzeln lösen
                  
