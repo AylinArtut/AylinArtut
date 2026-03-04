@@ -15,9 +15,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: Still working on "Basics". I don’t want to assume I’ve fully mastered them. I’d rather be cautious than overconfident.**
+**Current focus: ...**
 
-[Last change: 04.03.26, ~17:36]
+[Last change: 04.03.26, ~18:49]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -229,13 +229,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 5 KI generierte Aufgaben zu 2. Binomische Formel [1 Fails]
   - [x] 5 KI generierte Aufgaben zu 3. Binomische Formel [0 Fails]
   - [x] Potenzregel
-
-  - [ ] 50 KI generierte Aufgaben zu Wurzeln lösen
-    - [x] 10 KI generierte Aufgaben zu Wurzeln lösen [4 Fails]
-    - [x] 20 KI generierte Aufgaben zu Wurzeln lösen [1 Fails]
-    - [ ] 30 KI generierte Aufgaben zu Wurzeln lösen
-    - [ ] 40 KI generierte Aufgaben zu Wurzeln lösen
-                 
+  - [x] 30 KI generierte Aufgaben zu Wurzeln lösen [5 Fails]              
   - [ ] Koeffizientenvergleich
         
 ─────────────────────────────────────────────
