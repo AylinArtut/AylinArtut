@@ -17,9 +17,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: "Altklausuraufgaben zu Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
 
-
-
-[Last change: 05.03.26, ~22:58]
+[Last change: 05.03.26, ~22:59]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -252,7 +250,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Beschränktheit (unten, oben, vollständig)
   - [ ] Schranken (untere, obere)      
   - [ ] Inferior, Superior, Infimum, Supremum
-  - [ ] Konkav, konvex (wann?)
+  - [x] Konkav, konvex (wann?)
   - [ ] Asymptotisches Verhalten (wann?)
   - [ ] Singularität
         
