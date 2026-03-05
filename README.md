@@ -15,9 +15,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: ...**
+**Current focus: "Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
 
-[Last change: 04.03.26, ~18:49]
+[Last change: 05.03.26, ~11:07]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -229,8 +229,18 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 5 KI generierte Aufgaben zu 2. Binomische Formel [1 Fails]
   - [x] 5 KI generierte Aufgaben zu 3. Binomische Formel [0 Fails]
   - [x] Potenzregel
-  - [x] 30 KI generierte Aufgaben zu Wurzeln lösen [5 Fails]              
+  - [x] 30 KI generierte Aufgaben zu Wurzeln lösen [5 Fails]
+  - [ ] 50 KI generierte Aufgaben zu Wurzeln lösen 
+  - [ ] Wann Betragsstriche & wann nicht?              
   - [ ] Koeffizientenvergleich
+  - [ ] Nullstellen
+  - [ ] Umkehrfunktion
+  - [ ] Funktionen skizzieren
+  - [ ] Mittelwertsatz / zentraler Satz der Differentialrechnung
+  - [ ] Kleinere Beweise (zeige, dass eine Funktion ...)
+  - [ ] Vollständige Induktion
+  - [ ] Zwischenwertsatz
+  - [ ] Absolutes Minimum, absolutes Maximum
         
 ─────────────────────────────────────────────
 
@@ -243,9 +253,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Konkav, konvex (wann?)
   - [ ] Asymptotisches Verhalten (wann?)
   - [ ] Singularität
-     
-  - [ ] Zwischenwertsatz
-     
+        
 ─────────────────────────────────────────────
      
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 4 lösen
