@@ -330,6 +330,7 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [ ] Aufgabe c.)
     - [ ] Aufgabe d.)
     - [ ] Aufgabe e.)
+          
 ─────────────────────────────────────────────
 
 - [x] Aufgabentyp 6
