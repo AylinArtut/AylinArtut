@@ -257,29 +257,79 @@ Public ToDo-list to push myself to work harder for my final exam:
 ─────────────────────────────────────────────
      
 - [ ] Alle Altklausuraufgaben zu Aufgabentyp 4 lösen
-  - [ ] Klausur SS 15
-  - [ ] Klausur WS 15/16
+  - ~~[ ] Klausur SS 15~~ [andere Art von Aufgabe]
+  - ~~[ ] Klausur WS 15/16~~ [andere Art von Aufgabe]
   - [ ] Klausur SS 16
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur WS 16/17
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.) 
   - [ ] Klausur SS 17
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur WS 17/18
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+    - [ ] Aufgabe e.)
   - [ ] Klausur SS 18
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur WS 18/19
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
   - [ ] Klausur SS 19
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 19/20
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 20
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+    - [ ] Aufgabe e.)   
   - [ ] Klausur WS 20/21
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 21
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur WS 21/22
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur SS 22
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur WS 22/23
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur SS 23
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 24
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
   - [ ] Klausur WS 24/25
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
   - [ ] Klausur SS 25
-  
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
+    - [ ] Aufgabe d.)
+    - [ ] Aufgabe e.)
 ─────────────────────────────────────────────
 
 - [x] Aufgabentyp 6
