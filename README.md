@@ -17,7 +17,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: "Altklausuraufgaben zu Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
 
-[Last change: 05.03.26, ~11:08]
+[Last change: 05.03.26, ~13:40]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -275,6 +275,8 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur WS 22/23
   - [ ] Klausur SS 23
   - [ ] Klausur SS 24
+    - [x] Aufgabe a.)
+    - [ ] Aufgabe b.)
   - [ ] Klausur WS 24/25
   - [ ] Klausur SS 25
   
