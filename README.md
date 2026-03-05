@@ -15,9 +15,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: "Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
+**Current focus: "Altklausuraufgaben zu Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
 
-[Last change: 05.03.26, ~11:07]
+[Last change: 05.03.26, ~11:08]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
