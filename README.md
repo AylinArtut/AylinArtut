@@ -17,7 +17,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: "Altklausuraufgaben zu Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
 
-[Last change: 06.03.26, ~12:54]
+[Last change: 06.03.26, ~13:08]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -236,7 +236,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Koeffizientenvergleich
   - [ ] Nullstellen
   - [ ] Umkehrfunktion
-  - [ ] Funktionen skizzieren
+  - [x] Funktionen skizzieren
   - [ ] Mittelwertsatz / zentraler Satz der Differentialrechnung
   - [ ] Kleinere Beweise (zeige, dass eine Funktion ...)
   - [ ] Vollständige Induktion
@@ -296,7 +296,7 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [x] Aufgabe b.)
     - [x] Aufgabe c.)
     - [x] Aufgabe d.)
-    - [ ] Aufgabe e.)   
+    - [x] Aufgabe e.)   
   - [ ] Klausur WS 20/21
     - [ ] Aufgabe a.)
     - [ ] Aufgabe b.)
