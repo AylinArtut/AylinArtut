@@ -17,7 +17,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: "Altklausuraufgaben zu Aufgabentyp 4" + the related parts of "Eigenschaften von Funktionen" and "Basics", needed to solve "Aufgabentyp 4"** 🏃
 
-[Last change: 05.03.26, ~22:59]
+[Last change: 06.03.26, ~12:54]
 
 - [ ] Ableitungen
   - [x] Becoming faster at solving
@@ -229,6 +229,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] 5 KI generierte Aufgaben zu 2. Binomische Formel [1 Fails]
   - [x] 5 KI generierte Aufgaben zu 3. Binomische Formel [0 Fails]
   - [x] Potenzregel
+  - [x] Intervalle
   - [x] 30 KI generierte Aufgaben zu Wurzeln lösen [5 Fails]
   - [ ] 50 KI generierte Aufgaben zu Wurzeln lösen 
   - [ ] Wann Betragsstriche & wann nicht?              
@@ -251,7 +252,7 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Schranken (untere, obere)      
   - [ ] Inferior, Superior, Infimum, Supremum
   - [x] Konkav, konvex (wann?)
-  - [ ] Asymptotisches Verhalten (wann?)
+  - [x] Asymptotisches Verhalten (wann?)
   - [ ] Singularität
         
 ─────────────────────────────────────────────
@@ -291,10 +292,10 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [ ] Aufgabe b.)
     - [ ] Aufgabe c.)
   - [ ] Klausur SS 20
-    - [ ] Aufgabe a.)
-    - [ ] Aufgabe b.)
-    - [ ] Aufgabe c.)
-    - [ ] Aufgabe d.)
+    - [x] Aufgabe a.)
+    - [x] Aufgabe b.)
+    - [x] Aufgabe c.)
+    - [x] Aufgabe d.)
     - [ ] Aufgabe e.)   
   - [ ] Klausur WS 20/21
     - [ ] Aufgabe a.)
