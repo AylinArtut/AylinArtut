@@ -136,9 +136,9 @@ Public ToDo-list to push myself to work harder for my final exam:
   - ~~[ ] Klausur SS 16~~ [beinhaltet nur "Aufgabentyp 2"]
   - [X] Klausur WS 16/17
     - [X] Aufgabe a.)
-    - [X] Aufgabe b.) x
-    - [X] Aufgabe c.) 0
-    - [X] Aufgabe d.) 0
+    - [X] Aufgabe b.)
+    - [X] Aufgabe c.) [Nochmal bearbeiten]
+    - [X] Aufgabe d.) [Nochmal bearbeiten]
   - [ ] Klausur SS 17
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
@@ -212,8 +212,8 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [x] Klausur WS 24/25
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.) y
-    - [x] Aufgabe d.) y
+    - [x] Aufgabe c.) [Nochmal bearbeiten]
+    - [x] Aufgabe d.) [Nochmal bearbeiten]
   - [ ] Klausur SS 25
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
