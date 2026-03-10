@@ -3,6 +3,7 @@
 Interests 📚💻:
 * Automating processes, e.g. semantic validations
 * Modeling, e.g. database modeling <br>
+* Google + Oracle ♡
 
 Exploring when there's time 🎮:
 * Game dev experiments, e.g. gamification-related tools
