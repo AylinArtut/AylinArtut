@@ -137,8 +137,8 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [X] Klausur WS 16/17
     - [X] Aufgabe a.)
     - [X] Aufgabe b.)
-    - [X] Aufgabe c.) [Nochmal bearbeiten]
-    - [X] Aufgabe d.) [Nochmal bearbeiten]
+    - [X] Aufgabe c.)
+    - [X] Aufgabe d.)
   - [ ] Klausur SS 17
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
