@@ -14,7 +14,7 @@ Public ToDo-list to push myself to work harder for my final exam:
 
 **Current focus: Solving all "Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1)".** 📖
 
-[Last change: 11.03.26, ~23:48]
+[Last change: 12.03.26, ~00:08]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -152,12 +152,12 @@ Public ToDo-list to push myself to work harder for my final exam:
   - [ ] Klausur SS 18
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [ ] Aufgabe c.)
+    - [x] Aufgabe c.)
     - [ ] Aufgabe d.)
   - [ ] Klausur WS 18/19
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [ ] Aufgabe c.)
+    - [x] Aufgabe c.) [Why "-infinity", not "+infinity"?] 
     - [ ] Aufgabe d.)
   - [ ] Klausur SS 19
     - [x] Aufgabe a.)
