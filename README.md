@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam:
 
-**Current focus: Solving all "Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1)".** 📖
+**Current focus: ...** 📖
 
 [Last change: 12.03.26, ~00:08]
 
