@@ -10,9 +10,9 @@ Exploring when there's time 🎮:
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-Public ToDo-list to push myself to work harder for my final exam:
+Public ToDo-list to push myself to work harder for my final exam, to start working on my thesis-tool ♡ in April 2026:
 
-**Current focus: ...** 📖
+**Current focus: "Kettenregel, Quotientenregel, Produktregel" again & after that "Integralrechnung".** 📖
 
 [Last change: 12.03.26, ~00:08]
 
@@ -27,6 +27,10 @@ Public ToDo-list to push myself to work harder for my final exam:
     - [x] 2. Ableitung, 3. Ableitung (wann?)
 
 - [x] 140 KI generierte Aufgaben zu Ableitungen lösen [29 Fails]
+
+- [ ] 30 KI generierte Aufgaben zu "Kettenregel"
+- [ ] 30 KI generierte Aufgaben zu "Produktregel"
+- [ ] 30 KI generierte Aufgaben zu "Quotientenregel"
         
 ─────────────────────────────────────────────
 
