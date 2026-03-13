@@ -14,7 +14,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 **Current focus: "Kettenregel, Quotientenregel, Produktregel" again & after that "Integralrechnung".** 📖
 
-[Last change: 12.03.26, ~00:08]
+[Last change: 13.03.26, ~12:32]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -29,7 +29,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 - [x] 140 KI generierte Aufgaben zu Ableitungen lösen [29 Fails]
 
 - [ ] 30 KI generierte Aufgaben zu "Kettenregel"
-  - [ ] 10 KI generierte Aufgaben zu "Kettenregel"
+  - [x] 10 KI generierte Aufgaben zu "Kettenregel" [1 Fails]
   - [ ] 20 KI generierte Aufgaben zu "Kettenregel"
         
 - [ ] 30 KI generierte Aufgaben zu "Produktregel"
