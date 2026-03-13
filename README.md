@@ -29,8 +29,16 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 - [x] 140 KI generierte Aufgaben zu Ableitungen lösen [29 Fails]
 
 - [ ] 30 KI generierte Aufgaben zu "Kettenregel"
+  - [ ] 10 KI generierte Aufgaben zu "Kettenregel"
+  - [ ] 20 KI generierte Aufgaben zu "Kettenregel"
+        
 - [ ] 30 KI generierte Aufgaben zu "Produktregel"
+  - [ ] 10 KI generierte Aufgaben zu "Produktregel"
+  - [ ] 20 KI generierte Aufgaben zu "Produktregel"
+      
 - [ ] 30 KI generierte Aufgaben zu "Quotientenregel"
+  - [ ] 10 KI generierte Aufgaben zu "Quotientenregel"
+  - [ ] 20 KI generierte Aufgaben zu "Quotientenregel"
         
 ─────────────────────────────────────────────
 
