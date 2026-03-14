@@ -12,9 +12,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam, to start working on my thesis-tool ♡ in April 2026:
 
-**Current focus: "Grenzwerte" tasks that require using the "Kettenregel", "Quotientenregel", and/or "Produktregel".** 📖
+**Current focus: Solving some (marked below) "Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1)" again.** 📖
 
-[Last change: 14.03.26, ~19:40]
+[Last change: 14.03.26, ~21:25]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -28,6 +28,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 - [x] 140 KI generierte Aufgaben zu Ableitungen lösen [29 Fails]
 - [x] 20 KI generierte Aufgaben nur zu "Kettenregel" lösen [2 Fails]
+- [x] 30 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen [9 Fails]
         
 ─────────────────────────────────────────────
 
@@ -131,56 +132,50 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 - [ ] Rekursiv definierte Folgen     
 - [ ] Grenzwerte (linksseitig, rechtsseitig)
 
-- [ ] 50 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
-  - [x] 10 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen [8 Fails]
-  - [x] 20 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen [0 Fails]
-  - [ ] 30 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
-  - [ ] 40 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
-
 - [ ] Alle Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1) lösen
   - ~~[ ] Klausur SS 15~~ [beinhaltet nur "Aufgabentyp 2"]
   - ~~[ ] Klausur WS 15/16~~ [beinhaltet nur "Aufgabentyp 2"]
   - ~~[ ] Klausur SS 16~~ [beinhaltet nur "Aufgabentyp 2"]
   - [X] Klausur WS 16/17
     - [X] Aufgabe a.)
-    - [X] Aufgabe b.)
-    - [X] Aufgabe c.)
-    - [X] Aufgabe d.)
+    - [X] Aufgabe b.), [ ] Aufgabe b.) **[Nochmal neu]**
+    - [X] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [X] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 17
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
   - [x] Klausur WS 17/18
     - [x] Aufgabe a.)
-    - [x] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe b.), [ ] Aufgabe b.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 18
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
   - [ ] Klausur WS 18/19
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.) [Why "-infinity", not "+infinity"?] 
+    - [x] Aufgabe c.) [Why "-infinity", not "+infinity"?], [ ] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
   - [ ] Klausur SS 19
     - [x] Aufgabe a.)
-    - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [ ] Aufgabe b.) 
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur WS 19/20
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 20
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur WS 20/21
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
@@ -188,43 +183,43 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
     - [x] Aufgabe d.)
   - [ ] Klausur SS 21
     - [x] Aufgabe a.)
-    - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [ ] Aufgabe b.) 
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur WS 21/22
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 22
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur WS 22/23
     - [x] Aufgabe a.)
-    - [x] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe b.), [ ] Aufgabe b.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 23
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 24
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [x] Klausur WS 24/25
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 25
     - [x] Aufgabe a.)
-    - [x] Aufgabe b.)
-    - [x] Aufgabe c.)
+    - [x] Aufgabe b.), [ ] Aufgabe b.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
 
 ─────────────────────────────────────────────
