@@ -27,7 +27,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
     - [x] 2. Ableitung, 3. Ableitung (wann?)
 
 - [x] 140 KI generierte Aufgaben zu Ableitungen lösen [29 Fails]
-- [x] 20 KI generierte Aufgaben nur zu "Kettenregel" [2 Fails]
+- [x] 20 KI generierte Aufgaben nur zu "Kettenregel" lösen [2 Fails]
         
 ─────────────────────────────────────────────
 
