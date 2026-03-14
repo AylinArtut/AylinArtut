@@ -14,7 +14,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 **Current focus: "Grenzwerte" tasks that require using the "Kettenregel", "Quotientenregel", and/or "Produktregel".** 📖
 
-[Last change: 14.03.26, ~17:25]
+[Last change: 14.03.26, ~18:13]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -132,7 +132,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 - [ ] Grenzwerte (linksseitig, rechtsseitig)
 
 - [ ] 50 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
-  - [ ] 10 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
+  - [x] 10 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen [Fast überall kleine Fehler gehabt]
   - [ ] 20 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
   - [ ] 30 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
   - [ ] 40 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
