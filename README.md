@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam, to start working on my thesis-tool ♡ in April 2026:
 
-**Current focus: Working on several exercises on "Grenzwerte" that require using the "Kettenregel", "Quotientenregel", and/or "Produktregel".** 📖
+**Current focus: "Grenzwerte" tasks that require using the "Kettenregel", "Quotientenregel", and/or "Produktregel".** 📖
 
 [Last change: 14.03.26, ~17:25]
 
@@ -131,11 +131,11 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 - [ ] Rekursiv definierte Folgen     
 - [ ] Grenzwerte (linksseitig, rechtsseitig)
 
-- [ ] 50 KI generierte Aufgaben zu Grenzwerte bearbeiten, die mit "Kettenregel", "Quotientenregel" und/oder "Produktregel" zu lösen sind
-  - [ ] 10 KI generierte Aufgaben zu Grenzwerte bearbeiten, die mit "Kettenregel", "Quotientenregel" und/oder "Produktregel" zu lösen sind
-  - [ ] 20 KI generierte Aufgaben zu Grenzwerte bearbeiten, die mit "Kettenregel", "Quotientenregel" und/oder "Produktregel" zu lösen sind
-  - [ ] 30 KI generierte Aufgaben zu Grenzwerte bearbeiten, die mit "Kettenregel", "Quotientenregel" und/oder "Produktregel" zu lösen sind
-  - [ ] 40 KI generierte Aufgaben zu Grenzwerte bearbeiten, die mit "Kettenregel", "Quotientenregel" und/oder "Produktregel" zu lösen sind
+- [ ] 50 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
+  - [ ] 10 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
+  - [ ] 20 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
+  - [ ] 30 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
+  - [ ] 40 KI generierte Aufgaben zu Grenzwerte mit "Kettenregel", "Quotientenregel", "Produktregel" lösen
 
 - [ ] Alle Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1) lösen
   - ~~[ ] Klausur SS 15~~ [beinhaltet nur "Aufgabentyp 2"]
