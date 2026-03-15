@@ -14,7 +14,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 **Current focus: Solving some (marked below) "Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1)" again.** 📖
 
-[Last change: 15.03.26, ~00:49]
+[Last change: 15.03.26, ~01:27]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -138,13 +138,13 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
   - ~~[ ] Klausur SS 16~~ [beinhaltet nur "Aufgabentyp 2"]
   - [X] Klausur WS 16/17
     - [X] Aufgabe a.)
-    - [X] Aufgabe b.), [ ] Aufgabe b.) **[Nochmal neu]**
-    - [X] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
-    - [X] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
+    - [X] Aufgabe b.), [x] Aufgabe b.) **[Nochmal neu]**
+    - [X] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
+    - [X] Aufgabe d.), [x] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 17
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
   - [x] Klausur WS 17/18
     - [x] Aufgabe a.)
@@ -164,18 +164,18 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
   - [ ] Klausur SS 19
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.) 
-    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
-    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [x] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur WS 19/20
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
-    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [x] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 20
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
-    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [x] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur WS 20/21
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
