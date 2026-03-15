@@ -14,7 +14,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 **Current focus: Solving all "Altklausuraufgaben zu Integralrechnung".** 📖
 
-[Last change: 15.03.26, ~18:02]
+[Last change: 15.03.26, ~18:19]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -94,15 +94,15 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
     - [ ] Aufgabe b.)
     - [ ] Aufgabe c.)
   - [ ] Klausur WS 21/22
-    - [ ] Aufgabe a.)
+    - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
     - [ ] Aufgabe c.)
   - [ ] Klausur SS 22
-    - [ ] Aufgabe a.)
+    - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
     - [ ] Aufgabe c.)
   - [ ] Klausur WS 22/23
-    - [ ] Aufgabe a.)
+    - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
     - [ ] Aufgabe c.)
   - [ ] Klausur SS 23
