@@ -14,7 +14,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 **Current focus: Solving all "Altklausuraufgaben zu Integralrechnung".** 📖
 
-[Last change: 15.03.26, ~18:19]
+[Last change: 15.03.26, ~20:32]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -119,7 +119,7 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
     - [ ] Aufgabe c.)
   - [ ] Klausur SS 25
     - [x] Aufgabe a.)
-    - [ ] Aufgabe b.)
+    - [x] Aufgabe b.)
     - [ ] Aufgabe c.)
       
 - [x] 50 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [21 Fails]
