@@ -12,7 +12,7 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam, to start working on my thesis-tool ♡ in April 2026:
 
-**Current focus: ...** 📖
+**Current focus: Solving all "Altklausuraufgaben zu Integralrechnung".** 📖
 
 [Last change: 15.03.26, ~01:40]
 
@@ -42,25 +42,85 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
 
 - [ ] Alle Altklausuraufgaben zu Integralrechnung (Aufgabentyp 5) lösen
   - [ ] Klausur SS 15
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 15/16
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 16
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 16/17
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 17
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 17/18
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 18
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 18/19
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 19
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 19/20
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 20
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 20/21
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 21
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 21/22
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 22
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 22/23
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 23
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 24
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur WS 24/25
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
   - [ ] Klausur SS 25
+    - [ ] Aufgabe a.)
+    - [ ] Aufgabe b.)
+    - [ ] Aufgabe c.)
       
 - [x] 50 KI generierte Aufgaben zu nur Stammfunktionen bilden lösen [21 Fails]
         
