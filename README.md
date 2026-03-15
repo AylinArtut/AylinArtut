@@ -12,9 +12,9 @@ Exploring when there's time 🎮:
 
 Public ToDo-list to push myself to work harder for my final exam, to start working on my thesis-tool ♡ in April 2026:
 
-**Current focus: Solving some (marked below) "Altklausuraufgaben zu Grenzwerte (Aufgabentyp 1)" again.** 📖
+**Current focus: ...** 📖
 
-[Last change: 15.03.26, ~01:27]
+[Last change: 15.03.26, ~01:40]
 
 - [x] Ableitungen
   - [x] Becoming faster at solving
@@ -148,18 +148,18 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
     - [ ] Aufgabe d.)
   - [x] Klausur WS 17/18
     - [x] Aufgabe a.)
-    - [x] Aufgabe b.), [ ] Aufgabe b.) **[Nochmal neu]**
-    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
-    - [x] Aufgabe d.), [ ] Aufgabe d.) **[Nochmal neu]**
+    - [x] Aufgabe b.), [x] Aufgabe b.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [x] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 18
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.), [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
   - [ ] Klausur WS 18/19
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.) [Why "-infinity", not "+infinity"?], [ ] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
     - [ ] Aufgabe d.)
   - [ ] Klausur SS 19
     - [x] Aufgabe a.)
@@ -179,8 +179,8 @@ Public ToDo-list to push myself to work harder for my final exam, to start worki
   - [ ] Klausur WS 20/21
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.)
-    - [x] Aufgabe c.)
-    - [x] Aufgabe d.)
+    - [x] Aufgabe c.), [x] Aufgabe c.) **[Nochmal neu]**
+    - [x] Aufgabe d.), [x] Aufgabe d.) **[Nochmal neu]**
   - [ ] Klausur SS 21
     - [x] Aufgabe a.)
     - [ ] Aufgabe b.) 
