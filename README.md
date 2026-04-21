@@ -9,4 +9,4 @@ Exploring when there's time 🎮:
 
 ---
 
-Currently working on the exposé for my thesis.
+I am currently preparing my thesis with mentorship from Oracle.
