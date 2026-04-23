@@ -10,3 +10,5 @@ Exploring when there's time 🎮:
 ---
 
 I am currently preparing my thesis with mentorship from Oracle.
+
+🚩 ... 🐢 Working hard, exposé ALMOST done!
