@@ -12,4 +12,4 @@ Exploring when there's time 🎮:
 I am currently preparing my thesis with mentorship from Oracle.
 
 Exposé Progress: <br>
-[██████████████████░░] 90%
+[██████████████████░░] 95%
