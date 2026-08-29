@@ -1,4 +1,4 @@
-I am currently writing my thesis with Oracle's supervision. Many thanks to Google for helping me connect with Oracle and making this rare collaboration possible. A special thank you also goes to my boss, who has mentored and supported me for years and helped me grow.
+I am currently writing my thesis with Oracle's supervision. Many thanks to Google for helping me connect with Oracle and making this rare collaboration possible. A special thank you also goes to my boss, who has mentored and supported me for years and helped me grow. But above all, my deepest gratitude goes to God.
 
 My thesis project aims to fully validate database models, including their semantics. As an additional voluntary contribution, I plan to develop a standalone database modeling application tailored to this thesis, rather than relying on existing software.
 
