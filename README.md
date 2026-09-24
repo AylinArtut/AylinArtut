@@ -1,4 +1,4 @@
-I won't sharing any specific updates about my thesis until it's ready. 
+I won't share any specific updates about my thesis until it's ready. 
 
 ... Who wants to bet on the accuracy of my thesis project? Guess the right number & I'll buy you a döner. 😉
 
