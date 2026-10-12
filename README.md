@@ -14,3 +14,9 @@ Interests 📚💻:
 
 Exploring when there's time 🎮:
 * Game dev experiments, e.g. gamification-related tools
+
+Beyond work 🌴📖:
+* Reading, e.g. scientific papers (mostly on intersection of databases with other fields)
+* Tech trade fairs & conferences
+* Traveling
+* Gaming & Anime
