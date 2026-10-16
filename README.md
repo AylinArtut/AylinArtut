@@ -1,7 +1,3 @@
-Update: The deadline for my thesis project is approaching! 🏃
-
----
-
 🚧 My profile is under construction. All repositories are currently private.
 
 After my thesis (still writing), I will update this profile and make some repositories public after refactoring them.
