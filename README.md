@@ -6,15 +6,15 @@ Writing in a structured and detailed way is a skill I'm happy to practice throug
 
 Latex-Document: <br>
 - [ ] 🎃 ...
-- [ ] Zusammenfassung
-- [ ] Vorwort
+- [x] Zusammenfassung
+- [x] Vorwort
 - [x] Inhaltsverzeichnis
 - [ ] 1 Einleitung
-  - [ ] 1.1 Motivation
-  - [ ] 1.2 Problem
-  - [ ] 1.3 Zielsetzung
-  - [ ] 1.4 Abgrenzung
-  - [ ] 1.5 Stand der Forschung
+  - [x] 1.1 Motivation
+  - [x] 1.2 Problem
+  - [x] 1.3 Zielsetzung
+  - [x] 1.4 Abgrenzung
+  - [x] 1.5 Stand der Forschung
   - [ ] 1.6 Aufbau der Arbeit
 - [ ] 2 Prüfkonzepte und -algorithmen
   - [x] 2.1 ...
