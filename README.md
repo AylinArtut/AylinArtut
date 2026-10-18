@@ -2,6 +2,8 @@ I unexpectedly got sick during the final stage of my thesis. Between the fatigue
 
 🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻 Time to bring the "Hard" in "HardWorkingGirly" to the next level!
 
+Writing in a structured and detailed way is a skill I'm happy to practice through this thesis. At the same time, I prefer plain language over an academic style, so that students and readers outside academia can follow it easily, too. Instead of polishing every sentence into doctoral-style prose, I chose to invest that time in the quality of the project itself.
+
 Latex-Document: <br>
 - [ ] ...
 - [ ] Zusammenfassung
