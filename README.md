@@ -3,70 +3,79 @@ I unexpectedly got sick during the final stage of my thesis. Between the fatigue
 🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻 Time to bring the "Hard" in "HardWorkingGirly" to the next level!
 
 Latex-Document: <br>
-☐ ... <br>
-☐ Zusammenfassung <br>
-☐ Vorwort <br>
-☐ Inhaltsverzeichnis <br>
-☐ 1. Einleitung <br>
-☐ 1.1 Motivation <br>
-☐ 1.2 Problem <br>
-☐ 1.3 Zielsetzung <br>
-☐ 1.4 Abgrenzung <br>
-☐ 1.5 Stand der (angewandten) Forschung <br>
-☐ 1.6 Wissenschaftliche Vorgehensweise / Aufbau der Arbeit <br>
-☐ 2. Prüfkonzepte und -algorithmen <br>
-☐ 2.1 <br>
-☐ 2.2 <br>
-☐ 2.3 <br>
-☐ 2.4 <br>
-☐ 2.5 <br>
-☐ 2.5.1 <br>
-☐ 2.5.2 <br>
-☐ 2.5.3 <br>
-☐ 2.5.4 <br>
-☐ 2.6 <br>
-☐ 2.7 <br>
-☐ 2.8 <br>
-☐ 2.9 <br>
-☐ 2.10 <br>
-☐ 2.11 <br>
-☐ 2.12 <br>
-☐ 2.13 <br>
-☐ 2.14 <br>
-☐ 2.15 <br>
-☐ 2.16 <br>
-☐ 2.17 <br>
-☐ 2.18 <br>
-☐ 2.19 <br>
-☐ 2.20 <br>
-☐ 2.21 <br>
-☐ 2.22 <br>
-☐ 2.23 <br>
-☐ 2.24 <br>
-☐ 2.25 <br>
-☐ 2.26 <br>
-☐ 2.27 <br>
-☐ 2.28 <br>
-☐ 2.29 <br>
-☐ 2.30 <br>
-☐ 3. Anforderungsanalyse <br>
-☐ 3.1 (Methodik zur Anforderungsanalyse?) <br>
-☐ 3.2 Funkionale Anforderungen <br>
-☐ 3.3 Nicht-funktionale Anforderungen <br>
-☐ 4. Konzeption / Feinkonzeption <br>
-☐ 4.1 Konzeptionelles / Semantisches Schema (ERM) <br>
-☐ 4.2 Logisches Schema <br>
-☐ 4.3 Snowflake Schema <br>
-☐ 5. Umsetzung / Implementierung <br>
-☐ 5.1 Technologieauswahl <br>
-☐ 5.1.1 Frontend: Vanilla JavaScript <br>
-☐ 5.1.2 Backend: Python und FastAPI <br>
-☐ 5.2 (...?) <br>
-☐ 6. Evaluation <br>
-☐ 7. Fazit und Ausblick <br>
-☐ Literaturverzeichnis <br>
-☐ Anhang <br>
-☐ Eidesstattliche Erklärung
+- [ ] ...
+- [ ] Zusammenfassung
+- [ ] Vorwort
+- [x] Inhaltsverzeichnis
+- [ ] 1 Einleitung
+  - [ ] 1.1 Motivation
+  - [ ] 1.2 Problem
+  - [ ] 1.3 Zielsetzung
+  - [ ] 1.4 Abgrenzung
+  - [ ] 1.5 Stand der Forschung
+  - [ ] 1.6 Aufbau der Arbeit
+- [ ] 2 Prüfkonzepte und -algorithmen
+  - [ ] 2.1 ...
+  - [ ] 2.2 Prüfungen von Beziehungen
+    - [ ] 2.2.1 ...
+    - [ ] 2.2.2 Binäre Beziehungen
+    - [ ] 2.2.3 Rekursive Beziehungen
+    - [ ] 2.2.4 Mehrfachbeziehungen
+    - [ ] 2.2.5 ISA-Beziehungen
+      - [ ] 2.2.5.1 ...
+      - [ ] 2.2.5.2 ...
+      - [ ] 2.2.5.3 ...
+    - [ ] 2.2.6 Versionierung
+    - [ ] 2.2.7 Komposition und Aggregation
+  - [ ] 2.3 Prüfungen von Attributen
+    - [ ] 2.3.1 ...
+      - [ ] 2.3.1.1 ...
+      - [ ] 2.3.1.2 ...
+      - [ ] 2.3.1.3 ...
+      - [ ] 2.3.1.4 ...
+    - [ ] 2.3.2 ...
+      - [ ] 2.3.2.1 ...
+      - [ ] 2.3.2.2 ...
+      - [ ] 2.3.2.3 ...
+      - [ ] 2.3.2.4 ...
+      - [ ] 2.3.2.5 ...
+    - [ ] 2.3.3 ...
+    - [ ] 2.3.4 ...
+    - [ ] 2.3.5 ...
+    - [ ] 2.3.6 Datentypen und Längen
+    - [ ] 2.3.7 Primär- und Alternativschlüssel
+    - [ ] 2.3.8 Abgeleitete Attribute
+    - [ ] 2.3.9 Komplex strukturierte Attribute
+    - [ ] 2.3.10 Mengenwertige Attribute
+  - [ ] 2.4 ...
+    - [ ] 2.4.1 ...
+    - [ ] 2.4.2 ...
+    - [ ] 2.4.3 ...
+  - [ ] 2.5 Hilfsverfahren
+    - [ ] 2.5.1 ...
+      - [ ] 2.5.1.1 ...
+      - [ ] 2.5.1.2 ...
+      - [ ] 2.5.1.3 ...
+      - [ ] 2.5.1.4 ...
+    - [ ] 2.5.2 ...
+- [ ] 3 Anforderungsanalyse
+  - [ ] 3.1 Funktionale Anforderungen
+  - [ ] 3.2 Nicht-funktionale Anforderungen
+- [ ] 4 Feinkonzeption
+  - [ ] 4.1 Konzeptionelle Ansicht
+  - [ ] 4.2 Logische Ansicht
+  - [ ] 4.3 Snowflake Ansicht
+  - [ ] 4.4 ...
+- [ ] 5 Prototypische Umsetzung
+  - [ ] 5.1 Technologieauswahl
+    - [ ] 5.1.1 ...
+    - [ ] 5.1.2 Frontend: Vanilla JavaScript
+    - [ ] 5.1.3 Backend: Python und FastAPI
+- [ ] 6 Evaluation
+- [ ] 7 Fazit und Ausblick
+- [ ] Literaturverzeichnis
+- [ ] Anhang
+- [ ] Eidesstattliche Erklärung
 
 - - -
 
