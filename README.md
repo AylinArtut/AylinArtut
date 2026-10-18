@@ -75,9 +75,9 @@ Latex-Document: <br>
     - [ ] 5.1.3 Backend: Python und FastAPI
 - [ ] 6 Evaluation
 - [ ] 7 Fazit und Ausblick
-- [ ] Literaturverzeichnis
-- [ ] Anhang
-- [ ] Eidesstattliche Erklärung
+- [x] Literaturverzeichnis
+- [x] Anhang
+- [ ] 🎃 Eidesstattliche Erklärung
 
 - - -
 
