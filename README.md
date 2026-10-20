@@ -1,8 +1,6 @@
 I unexpectedly got sick during the final stage of my thesis. Between the fatigue and the urge to just sleep, I'm making my progress checklist public to keep myself awake, focused and under pressure until the very end.
 
-🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻 Time to bring the "Hard" in "HardWorkingGirly" to the next level!
-
-Writing in a structured and detailed way is a skill I'm happy to practice through this thesis. At the same time, I prefer plain language over an academic style, so that students and readers outside academia can follow it easily, too. Instead of polishing every sentence into doctoral-style prose, I chose to invest that time in the quality of the project itself.
+🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻
 
 Latex-Document: <br>
 - [ ] 🎃 ...
@@ -60,9 +58,9 @@ Latex-Document: <br>
       - [ ] 2.5.1.3 ...
       - [ ] 2.5.1.4 ...
     - [x] 2.5.2 ...
-- [ ] 3 Anforderungsanalyse
-  - [ ] 3.1 Funktionale Anforderungen
-  - [ ] 3.2 Nicht-funktionale Anforderungen
+- [x] 3 Anforderungsanalyse
+  - [x] 3.1 Funktionale Anforderungen
+  - [x] 3.2 Nicht-funktionale Anforderungen
 - [ ] 4 Feinkonzeption
   - [ ] 4.1 Konzeptionelle Ansicht
   - [ ] 4.2 Logische Ansicht
