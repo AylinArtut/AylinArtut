@@ -3,7 +3,7 @@ I unexpectedly got sick during the final stage of my thesis. Between the fatigue
 🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻
 
 Latex-Document: <br>
-- [ ] 🎃 ...
+- [ ] ...
 - [x] Zusammenfassung
 - [x] Vorwort
 - [x] Inhaltsverzeichnis
@@ -75,7 +75,7 @@ Latex-Document: <br>
 - [ ] 7 Fazit und Ausblick
 - [x] Literaturverzeichnis
 - [x] Anhang
-- [ ] 🎃 Eidesstattliche Erklärung
+- [ ] Eidesstattliche Erklärung
 
 - - -
 
