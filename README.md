@@ -14,9 +14,9 @@ Latex-Document: <br>
   - [x] 1.4 Abgrenzung
   - [x] 1.5 Stand der Forschung
   - [ ] 1.6 Aufbau der Arbeit
-- [ ] 2 Prüfkonzepte und -algorithmen
+- [x] 2 Prüfkonzepte und -algorithmen
   - [x] 2.1 ...
-  - [ ] 2.2 Prüfungen von Beziehungen
+  - [x] 2.2 Prüfungen von Beziehungen
     - [x] 2.2.1 ...
     - [x] 2.2.2 Binäre Beziehungen
     - [x] 2.2.3 Rekursive Beziehungen
@@ -26,7 +26,7 @@ Latex-Document: <br>
       - [x] 2.2.5.2 ...
       - [x] 2.2.5.3 ...
     - [x] 2.2.6 Versionierung
-    - [ ] 2.2.7 Komposition und Aggregation
+    - [x] 2.2.7 Komposition und Aggregation
   - [ ] 2.3 Prüfungen von Attributen
     - [x] 2.3.1 ...
       - [x] 2.3.1.1 ...
