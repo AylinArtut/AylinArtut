@@ -66,7 +66,7 @@ Latex-Document: <br>
   - [ ] 4.2 Logische Ansicht
   - [ ] 4.3 Snowflake Ansicht
   - [ ] 4.4 ...
-- [ ] 5 Prototypische Umsetzung
+- [x] 5 Prototypische Umsetzung
   - [x] 5.1 Technologieauswahl
     - [x] 5.1.1 ...
     - [x] 5.1.2 Frontend: Vanilla JavaScript
