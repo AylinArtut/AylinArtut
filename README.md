@@ -13,7 +13,7 @@ Latex-Document: <br>
   - [x] 1.3 Zielsetzung
   - [x] 1.4 Abgrenzung
   - [x] 1.5 Stand der Forschung
-  - [ ] 1.6 Aufbau der Arbeit
+  - [x] 1.6 Aufbau der Arbeit
 - [ ] 2 Prüfkonzepte und -algorithmen
   - [x] 2.1 ...
   - [x] 2.2 Prüfungen von Beziehungen
