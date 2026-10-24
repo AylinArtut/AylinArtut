@@ -72,7 +72,7 @@ Latex-Document: <br>
     - [x] 5.1.2 Frontend: Vanilla JavaScript
     - [x] 5.1.3 Backend: Python und FastAPI
 - [x] 6 Evaluation
-- [ ] 7 Fazit und Ausblick
+- [x] 7 Fazit und Ausblick
 - [x] Literaturverzeichnis
 - [x] Anhang
 - [x] Eidesstattliche Erklärung
