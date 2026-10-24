@@ -3,7 +3,7 @@ I unexpectedly got sick during the final stage of my thesis. Between the fatigue
 🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻
 
 Latex-Document: <br>
-- [ ] ...
+- [x] ...
 - [x] Zusammenfassung
 - [x] Vorwort
 - [x] Inhaltsverzeichnis
@@ -71,7 +71,7 @@ Latex-Document: <br>
     - [x] 5.1.1 ...
     - [x] 5.1.2 Frontend: Vanilla JavaScript
     - [x] 5.1.3 Backend: Python und FastAPI
-- [ ] 6 Evaluation
+- [x] 6 Evaluation
 - [ ] 7 Fazit und Ausblick
 - [x] Literaturverzeichnis
 - [x] Anhang
