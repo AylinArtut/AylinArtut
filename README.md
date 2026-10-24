@@ -75,7 +75,7 @@ Latex-Document: <br>
 - [ ] 7 Fazit und Ausblick
 - [x] Literaturverzeichnis
 - [x] Anhang
-- [ ] Eidesstattliche Erklärung
+- [x] Eidesstattliche Erklärung
 
 - - -
 
