@@ -14,7 +14,7 @@ Latex-Document: <br>
   - [x] 1.4 Abgrenzung
   - [x] 1.5 Stand der Forschung
   - [ ] 1.6 Aufbau der Arbeit
-- [x] 2 Prüfkonzepte und -algorithmen
+- [ ] 2 Prüfkonzepte und -algorithmen
   - [x] 2.1 ...
   - [x] 2.2 Prüfungen von Beziehungen
     - [x] 2.2.1 ...
