@@ -67,10 +67,10 @@ Latex-Document: <br>
   - [ ] 4.3 Snowflake Ansicht
   - [ ] 4.4 ...
 - [ ] 5 Prototypische Umsetzung
-  - [ ] 5.1 Technologieauswahl
-    - [ ] 5.1.1 ...
-    - [ ] 5.1.2 Frontend: Vanilla JavaScript
-    - [ ] 5.1.3 Backend: Python und FastAPI
+  - [x] 5.1 Technologieauswahl
+    - [x] 5.1.1 ...
+    - [x] 5.1.2 Frontend: Vanilla JavaScript
+    - [x] 5.1.3 Backend: Python und FastAPI
 - [ ] 6 Evaluation
 - [ ] 7 Fazit und Ausblick
 - [x] Literaturverzeichnis
