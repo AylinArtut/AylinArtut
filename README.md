@@ -2,6 +2,8 @@ I unexpectedly got sick during the final stage of my thesis. Between the fatigue
 
 🚩 . . . 📝 . . . 🏃🕤 . . . ✔️💻
 
+I also planned to add checks on the SQL level, which are not part of the thesis, but there wasn't enough time left. These will come in a future update.
+
 Latex-Document: <br>
 - [x] ...
 - [x] Zusammenfassung
