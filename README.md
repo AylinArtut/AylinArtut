@@ -1,16 +1,18 @@
-## Hi there 👋
+🚧 My profile is under construction. All repositories are currently private.
 
-<!--
-**AylinArtut/AylinArtut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I will update this profile soon and make some repositories public after refactoring them.
 
-Here are some ideas to get you started:
+Interests 📚💻:
+* Deterministic algorithms <br>
+* Hybrid algorithms <br>
+* Process automation <br>
+* Modeling, e.g. database modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Exploring when there's time 🎮:
+* Game dev experiments, e.g. gamification-related tools
+
+Beyond work 🌴📖:
+* Reading, e.g. scientific papers (mostly on intersection of databases with other fields)
+* Tech trade fairs & conferences
+* Traveling
+* Gaming & Anime
